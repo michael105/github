@@ -11,6 +11,9 @@ My memory is sort of selective
 
 ->hub init 
 ->hub create -d "Description"
+->git add .
+->git push --set-upstream origin master
+
 
 (somewhere must be the setting hidden for the default remote repo name..)
 possibly it's been this line?
