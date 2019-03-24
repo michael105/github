@@ -1,0 +1,51 @@
+sadf
+sad
+
+p{
+   width: 140px;
+   height: 140px;
+   background: blue; 
+   -moz-border-radius: 70px; 
+   -webkit-border-radius: 70px; 
+   border-radius: 70px;
+}. sdfsdf
+
+       asdasdf
+       asdsddfsa
+
+
+asd
+
+p{color:red}. sdaasdsdf
+asd
+
+p{float:left; background:blue;padding:10px; color:yellow; border:5px solid black }.. asdsadf
+2937237279
+234icdvsdf
+
+
+Tables without table ;))
+
+:grin:
+
+
+p.
+
+
+p{ background:green;padding:10px; color:yellow }..
+asdssadasdasd
+asefsdf
+
+sdsad
+asd
+da
+
+
+
+adad
+aada
+ad
+ad
+ad
+
+asd
