@@ -4,7 +4,7 @@ at the least this works out.
 
 so.
 
-p{color:red}. RED asf
+p{color:red;}. RED asf
 asd
 
        asdasdf
@@ -15,10 +15,6 @@ asd
 
 p{color:red}. sdaasdsdf
 asd
-
-p{float:left; background:blue;padding:10px; color:yellow; border:5px solid black }.. asdsadf
-2937237279
-234icdvsdf
 
 
 Tables without table ;))
