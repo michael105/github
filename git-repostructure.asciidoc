@@ -3,8 +3,9 @@
 == About branches and repos..
 
 
-....
- Mainly I write this as memo to myself.
+
+____
+Mainly I write this as memo to myself.
  
  Did think about howto layout the branches best for minilib.
  
@@ -30,7 +31,7 @@ without getting error messages.
 
  Since the interdependencies are already hard to track,
 I did need a possibility to check.
-....
+____
 
 So, here's my layout: (google wasn't soo helpful, so I better keep it here,
 also for myself)
