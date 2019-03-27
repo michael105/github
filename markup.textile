@@ -100,3 +100,6 @@ p.
 	I'm going with textile
 	Looks somehow the best within vi as well as online.
 
+
+;) Back to asciidoc. More functionality.
+
