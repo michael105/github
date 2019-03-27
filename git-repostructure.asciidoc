@@ -6,30 +6,30 @@
 
 ____
 Mainly I write this as memo to myself.
- 
- Did think about howto layout the branches best for minilib.
- 
- I came to the conclusion, the "master" branch shouldn't include all 
- scripts and so on, I'm using for the development.
- 
- Furthermore, I like to check, whether the minilib compiles not only 
- within the current working dir.
- 
- E.g., in the directory tools is the tool "shrinkelf".
- Which shrinks elf binaries.
- 
- I did make the compile (mistakenly) dependent on this tool.
 
- In the real development branch I didn't notice the dependency;
-although I already made a simple test environment,
-all test went through without problem.
+Did think about howto layout the branches best for minilib.
 
- Only when I checked out later the updated master branch,
-I realized, it wouldn't be possible to work with a copy of minilib
+I came to the conclusion, the "master" branch shouldn't include all 
+scripts and so on, I'm using for the development.
+
+Furthermore, I like to check, whether the minilib compiles not only 
+within the current working dir.
+
+E.g., in the directory tools is the tool "shrinkelf".
+Which shrinks elf binaries.
+
+I did make the compile (mistakenly) dependent on this tool.
+
+In the real development branch I didn't notice the dependency;
+lthough I already made a simple test environment,
+ll test went through without problem.
+
+Only when I checked out later the updated master branch,
+ realized, it wouldn't be possible to work with a copy of minilib
 without getting error messages.
 
 
- Since the interdependencies are already hard to track,
+Since the interdependencies are already hard to track,
 I did need a possibility to check.
 ____
 
