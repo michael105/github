@@ -1,9 +1,8 @@
 :hardbreaks:
 
-
-link:README.asciidoc[Index] - link:markup.textile[Markup] - link:git-shell.textile[git-shell] - link:git-repostructure.asciidoc[git-repostructure]
- 
-
+|===
+| link:README.asciidoc[Index] | link:markup.textile[Markup] | link:git-shell.textile[git-shell] - link:git-repostructure.asciidoc[git-repostructure]
+|===
 
 
 == About branches and repos..
@@ -103,3 +102,6 @@ So - there's
 
 link:README.asciidoc[Index] - link:markup.textile[Markup] - link:git-shell.textile[git-shell] - link:git-repostructure.asciidoc[git-repostructure]
 
+asciidoc: ERROR: git-repostructure.asciidoc: line 8: only book doctypes can contain level 0 sections
+asciidoc: ERROR: git-repostructure.asciidoc: line 8: only book doctypes can contain level 0 sections
+asciidoc: ERROR: git-repostructure.asciidoc: line 2: [blockdef-literal] missing closing delimiter
