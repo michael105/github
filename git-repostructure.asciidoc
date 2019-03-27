@@ -1,9 +1,9 @@
 :hardbreaks:
 
 
-__ link:README.asciidoc[Index] | link:markup.textile[Markup] | link:git-shell.textile[git-shell] - link:git-repostructure.asciidoc[git-repostructure] __
+__ ==== link:README.asciidoc[Index] | link:markup.textile[Markup] | link:git-shell.textile[git-shell] | link:git-repostructure.asciidoc[git-repostructure] ==== __
 
-'''
+
 
 == About branches and repos..
 
