@@ -46,11 +46,11 @@ add this to the devel repo:
 push there as normally.
 Create a "git" subdirectory, containing two files:
 
-devel.files
+_devel.files_
   include all filenames and paths there, 
 	which are to be included in the devel-branch at github.
 
-master.files
+_master.files_
  all files, which are to be included in the devel and master branch.
 
 
@@ -63,11 +63,13 @@ Basically checkout git/master.files and git/devel.files
 `git checkout origin/devel git`
 
 checkout only these files
-git checkout origin/devel $(cat git/files)
+`git checkout origin/devel $(cat git/files)`
 
 
 try whether everything's right.
-Then: git push to github.
+`make test` or whatever
+
+Then: `git push` to github.
 
 
 So - that's how it is possible, to have different branches containing different filesets;
