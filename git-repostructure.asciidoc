@@ -95,5 +95,4 @@ So - there's
 
 
 
-Finally there might be a minilib/releases branch to come - ;) soon.
 
