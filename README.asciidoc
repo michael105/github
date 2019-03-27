@@ -6,17 +6,16 @@
 
 
 
-'''
 
 _Again, more or less memos to myself_
 
 link:markup.textile[Markup]::
 	About markup at github.
 
-link:git-shell.textile[git-shell]::
+ link:git-shell.textile[*git-shell*]::
 	Notes (my memos) about using git from the shell
 
-link:git-repostructure.textile[git-repostructure]::
+ link:git-repostructure.textile[git-repostructure]::
   What I guess, could be a good branching strategy.
   Also the structure I'm using for some repos.
 
