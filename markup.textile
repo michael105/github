@@ -1,7 +1,7 @@
-h2. Some github related docus
+h3. github related
 
 
-h2. Markdown
+h3. Markdown
 
 
 * Obviously, not only markdown can be used.
