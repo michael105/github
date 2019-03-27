@@ -2,7 +2,8 @@
 
 == About branches and repos..
 
-  
+
+====
  Mainly I write this as memo to myself.
  
  
@@ -13,7 +14,6 @@
  
  Furthermore, I like to check, whether the minilib compiles not only 
  within the current working dir.
- ___
  
  E.g., in the directory tools is the tool "shrinkelf".
  Which shrinks elf binaries.
@@ -31,7 +31,7 @@ without getting error messages.
 
 Since the interdependencies are already hard to track,
 I did need a possibility to check.
-
+====
 
 So, here's my layout: (google wasn't soo helpful, so I better keep it here,
 also for myself)
