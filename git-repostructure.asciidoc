@@ -1,5 +1,11 @@
 :hardbreaks:
 
+
+link:README.asciidoc[Index] - link:markup.textile[Markup] - link:git-shell.textile[git-shell] - link:git-repostructure.asciidoc[git-repostructure]
+ 
+
+
+
 == About branches and repos..
 
 
@@ -95,4 +101,5 @@ So - there's
 
 
 
+link:README.asciidoc[Index] - link:markup.textile[Markup] - link:git-shell.textile[git-shell] - link:git-repostructure.asciidoc[git-repostructure]
 
