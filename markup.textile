@@ -15,6 +15,7 @@ h3. Markdown
 * Reference to markdown. Also about inline html, and so on.
 	-> https://daringfireball.net/projects/markdown/syntax
 
+* Better Reference. Way better. https://spec.commonmark.org/0.29/
 
 * There's a online Markdown editor, where you can see, what you type. Err. I mean WYSIWYG. Sort of.
 	 -> http://markdown.pioul.fr/
